@@ -1,0 +1,31 @@
+[
+  [
+    "(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js",
+    ["app-pages-internals", "static/chunks/app-pages-internals.js"],
+    ""
+  ],
+  [
+    "(app-pages-browser)/./src/app/components/Nav.tsx",
+    ["app/first/page", "static/chunks/app/first/page.js"],
+    ""
+  ],
+  [
+    "(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js",
+    ["app-pages-internals", "static/chunks/app-pages-internals.js"],
+    ""
+  ],
+  [
+    "(app-pages-browser)/./node_modules/next/dist/client/components/render-from-template-context."
+  ],
+  [["app-pages-internals", "static/chunks/app-pages-internals.js"], ""],
+  [
+    "(app-pages-browser)/./src/app/providers.tsx",
+    ["app/layout", "static/chunks/app/layout.js"],
+    ""
+  ],
+  [
+    "(app-pages-browser)/./node_modules/next/dist/client/components/error-boundary.js",
+    ["app-pages-internals", "static/chunks/app-pages-internals.js"],
+    ""
+  ]
+]
